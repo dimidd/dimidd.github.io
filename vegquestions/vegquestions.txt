@@ -1,4 +1,5 @@
 ﻿איזו תעשיה מייצרת הכי הרבה פליטות גזי חממה?
+![illustration](http://dimidd.github.io/vegquestions/carbon_emissions.png)
 A) רכב
 B) מטוסים
 >>>C) מוצרים מהחי
